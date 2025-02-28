@@ -1,0 +1,24 @@
+{
+  "name": "gftjs",
+  "version": "0.0.1-alpha",
+  "description": "Generate a file Structure for a folder ",
+  "main": "index.js",
+  "bin": {
+    "gft": "./gft.js"
+  },
+  "scripts": {
+    "start": "node gft.js"
+  },
+  "keywords": [
+    "file tree",
+    "cli",
+    "directory",
+    "file structure"
+  ],
+  "author": "i._.become_a_devil",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "log-symbols": "^4.1.0"
+  }
+}
