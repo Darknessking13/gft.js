@@ -1,7 +1,6 @@
-```markdown
 # gft.js
 
-> **Get File Tree (gft.js)** is a lightweight CLI tool and Node.js API for generating a plain-text file tree of a given folder or directory. It provides a clean, customizable output with options to include emojis and line numbers. When run in the terminal, it enhances the display using [chalk](https://www.npmjs.com/package/chalk) for color and [log-symbols](https://www.npmjs.com/package/log-symbols) for status icons.
+> **Get File Tree (gft.js)** is a lightweight CLI tool and Node.js API for generating a plain-text file tree of a given folder or directory. It provides a clean, customizable output with options to include emojis and line numbers.
 
 ---
 
@@ -10,7 +9,6 @@
 - **CLI & API:** Use gft.js as a standalone command-line tool or integrate it into your own Node.js projects.
 - **Plain-Text Output:** Generates a plain-text file tree that is ideal for saving to files or further processing.
 - **Customizable Options:** Toggle emoji icons and line numbers with simple command-line flags.
-- **Enhanced Terminal Display:** When printing to the terminal, directories and status messages are colorized for a polished look.
 - **ASCII Art Banner:** Each CLI run displays an eye-catching ASCII art header along with the package version.
 
 ---
@@ -109,4 +107,4 @@ When run without specifying an output file, the CLI displays an ASCII art banner
 
 ## Contributing
 
-Contributions are welcome! If you have suggestions or improvements, please submit issues or pull requests in the [GitHub repository](https://github.com/yourusername/gft.js).
+Contributions are welcome! If you have suggestions or improvements, please submit issues or pull requests in the [GFT Js](https://github.com/Darknessking13/gft.js).
