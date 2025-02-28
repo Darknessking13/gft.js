@@ -1,7 +1,7 @@
 {
   "name": "gftjs",
   "version": "0.0.1-alpha",
-  "description": "Generate a file Structure for a folder ",
+  "description": "Generate a file Structure for a folder",
   "main": "index.js",
   "bin": {
     "gft": "./gft.js"
@@ -17,6 +17,14 @@
   ],
   "author": "i._.become_a_devil",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darknessking13/gft.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Darknessking13/gft.js/issues"
+  },
+  "homepage": "https://github.com/Darknessking13/gft.js#readme",
   "dependencies": {
     "chalk": "^4.1.2",
     "log-symbols": "^4.1.0"
